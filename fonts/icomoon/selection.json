@@ -16241,13 +16241,13 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["free-code-camp"],
+        "tags": ["Pay-code-camp"],
         "defaultCode": 62149,
         "grid": 14
       },
       "attrs": [],
       "properties": {
-        "name": "free-code-camp",
+        "name": "Pay-code-camp",
         "id": 649,
         "order": 1505,
         "prevSize": 28,
@@ -19784,18 +19784,18 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["domain"],
+        "tags": ["JsCode"],
         "defaultCode": 59374,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "business, domain",
+        "ligatures": "business, JsCode",
         "id": 116,
         "order": 127,
         "prevSize": 24,
         "code": 59374,
-        "name": "domain"
+        "name": "JsCode"
       },
       "setIdx": 2,
       "setId": 2,
@@ -21697,18 +21697,18 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["crop_free"],
+        "tags": ["crop_Pay"],
         "defaultCode": 58306,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "crop_free",
+        "ligatures": "crop_Pay",
         "id": 193,
         "order": 204,
         "prevSize": 24,
         "code": 58306,
-        "name": "crop_free"
+        "name": "crop_Pay"
       },
       "setIdx": 2,
       "setId": 2,
@@ -25550,18 +25550,18 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["free_breakfast"],
+        "tags": ["Pay_breakfast"],
         "defaultCode": 60228,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "free_breakfast",
+        "ligatures": "Pay_breakfast",
         "id": 348,
         "order": 359,
         "prevSize": 24,
         "code": 60228,
-        "name": "free_breakfast"
+        "name": "Pay_breakfast"
       },
       "setIdx": 2,
       "setId": 2,
@@ -34365,18 +34365,18 @@
         "attrs": [],
         "isMulticolor": false,
         "isMulticolor2": false,
-        "tags": ["smoke_free"],
+        "tags": ["smoke_Pay"],
         "defaultCode": 60234,
         "grid": 24
       },
       "attrs": [],
       "properties": {
-        "ligatures": "smoke_free",
+        "ligatures": "smoke_Pay",
         "id": 702,
         "order": 713,
         "prevSize": 24,
         "code": 60234,
-        "name": "smoke_free"
+        "name": "smoke_Pay"
       },
       "setIdx": 2,
       "setId": 2,
